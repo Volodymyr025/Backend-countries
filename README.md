@@ -2,6 +2,8 @@
 # Getting Started
 First, run the development server:
 
-npm run dev
+npm install -- install all dependence
+
+npm run dev -- start running
 
 The server is running on http://localhost:8080 
